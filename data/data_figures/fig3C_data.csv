@@ -1,0 +1,34 @@
+"Family","CS_duo","CS_type_duo","dom_cs_type","outcome2","dom_cs_v","epsi_sd"
+"Moraxellaceae","glucose_benzoate","SA","sugar","no interaction",-0.0289110163686367,0.0642227331777749
+"Moraxellaceae","glucose_fumarate","SA","acid","no interaction",0.00779088952339481,0.213141686627448
+"Moraxellaceae","glucose_glycine","SA","sugar","no interaction",-0.000211275787340793,0.00223685128435205
+"Moraxellaceae","glucose_glycine","SA","acid","no interaction",0.000211275787340793,0.00223685128435205
+"Pseudomonadaceae","glucose_fumarate","SA","sugar","no interaction",-0.0664231451806631,0.156954713796357
+"Pseudomonadaceae","succinate_cellobiose","SA","sugar","no interaction",-0.0193066942860608,0.0864841096113667
+"Pseudomonadaceae","succinate_fructose","SA","sugar","no interaction",-0.00970827178054594,0.103668129766535
+"Pseudomonadaceae","succinate_ribose","SA","acid","no interaction",0.000591721128352763,0.0964421158176358
+"Rhizobiaceae","glucose_benzoate","SA","sugar","no interaction",-0.000591465103211142,0.00169720783977944
+"Rhizobiaceae","glucose_fumarate","SA","sugar","no interaction",-0.0013359095847514,0.00263821108216079
+"Enterobacteriaceae","glucose_benzoate","SA","acid","- dominance",0.201438601541707,0.0821896216156895
+"Enterobacteriaceae","glucose_fumarate","SA","sugar","+ dominance",-0.0932734087050072,0.0986470638539219
+"Enterobacteriaceae","glucose_glutamine","SA","sugar","+ dominance",-0.352683364900656,0.165019265222261
+"Enterobacteriaceae","glucose_glycine","SA","sugar","+ dominance",-0.361808218106815,0.0972230693092399
+"Enterobacteriaceae","succinate_cellobiose","SA","sugar","+ dominance",-0.303944808001104,0.126572850233725
+"Enterobacteriaceae","succinate_fructose","SA","sugar","+ dominance",-0.291739653218076,0.132407482737583
+"Enterobacteriaceae","succinate_glycerol","SA","sugar","+ dominance",-0.449125621062274,0.0680896923557952
+"Enterobacteriaceae","succinate_ribose","SA","sugar","+ dominance",-0.343566490896996,0.0684141015836089
+"Moraxellaceae","glucose_glutamine","SA","sugar","- dominance",-0.124544822071842,0.130511679053298
+"Moraxellaceae","succinate_cellobiose","SA","sugar","- dominance",-0.147235543415409,0.101337182653755
+"Moraxellaceae","succinate_fructose","SA","sugar","- dominance",-0.144701389517303,0.0993103449999099
+"Moraxellaceae","succinate_glycerol","SA","sugar","- dominance",-0.159840247987688,0.110592832360559
+"Moraxellaceae","succinate_ribose","SA","sugar","- dominance",-0.154267465105913,0.108097847627401
+"Pseudomonadaceae","glucose_benzoate","SA","acid","+ dominance",0.22189962309675,0.10637608918775
+"Pseudomonadaceae","glucose_glutamine","SA","sugar","- dominance",-0.0825693675348386,0.0726765404371422
+"Pseudomonadaceae","glucose_glycine","SA","sugar","- dominance",-0.267048262569552,0.0972156896995154
+"Pseudomonadaceae","succinate_glycerol","SA","sugar","- dominance",-0.0969916712912752,0.0907917656069004
+"Rhizobiaceae","glucose_glutamine","SA","sugar","- dominance",-0.0892571125089763,0.0548728533683604
+"Rhizobiaceae","glucose_glycine","SA","sugar","- dominance",-0.0113308863593479,0.0135024795984823
+"Rhizobiaceae","succinate_cellobiose","SA","sugar","- dominance",-0.130911218281135,0.0580592158592726
+"Rhizobiaceae","succinate_fructose","SA","sugar","- dominance",-0.12984999022441,0.0578853418935015
+"Rhizobiaceae","succinate_glycerol","SA","sugar","- dominance",-0.142816491589192,0.0620807516613692
+"Rhizobiaceae","succinate_ribose","SA","sugar","antagonism",-0.141391152331393,0.0569652164220543

@@ -1,0 +1,249 @@
+"Family","Inoculum","CS_duo","CS_type_duo","dom_cs_type","outcome2","dom_cs_v","epsi_sd"
+"Enterobacteriaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0358424135936001,0.118471261484199
+"Enterobacteriaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00476994044244066,0.0157581408087406
+"Enterobacteriaceae",1,"glucose_ribose","SS","additional","no interaction",0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",2,"glucose_ribose","SS","focal","no interaction",-0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",1,"glucose_ribose","SS","additional","no interaction",0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",1,"glucose_ribose","SS","additional","no interaction",0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",1,"glucose_ribose","SS","additional","no interaction",0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",2,"glucose_ribose","SS","focal","no interaction",-0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",2,"glucose_ribose","SS","focal","no interaction",-0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",2,"glucose_ribose","SS","focal","no interaction",-0.0076931681412496,0.0778743001642531
+"Enterobacteriaceae",1,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",2,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",1,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",2,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",2,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",1,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",2,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",1,"succinate_benzoate","AA","additional","no interaction",0.0271486460015991,0.0395143637140388
+"Enterobacteriaceae",2,"succinate_glycine","AA","focal","no interaction",-0.00146121324365278,0.0700944713942431
+"Enterobacteriaceae",1,"succinate_glycine","AA","focal","no interaction",-0.00146121324365278,0.0700944713942431
+"Enterobacteriaceae",1,"succinate_glycine","AA","focal","no interaction",-0.00146121324365278,0.0700944713942431
+"Enterobacteriaceae",2,"succinate_glycine","AA","focal","no interaction",-0.00146121324365278,0.0700944713942431
+"Enterobacteriaceae",2,"succinate_glycine","AA","focal","no interaction",-0.00146121324365278,0.0700944713942431
+"Enterobacteriaceae",1,"succinate_glycine","AA","focal","no interaction",-0.00146121324365278,0.0700944713942431
+"Moraxellaceae",2,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",2,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",2,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",2,"glucose_glycerol","SS","focal","no interaction",-0.00112313075574635,0.00197003376904169
+"Moraxellaceae",2,"glucose_ribose","SS","additional","no interaction",0.000472947729330555,0.00186101946221123
+"Moraxellaceae",1,"glucose_ribose","SS","focal","no interaction",-0.000472947729330555,0.00186101946221123
+"Moraxellaceae",1,"glucose_ribose","SS","focal","no interaction",-0.000472947729330555,0.00186101946221123
+"Moraxellaceae",1,"glucose_ribose","SS","focal","no interaction",-0.000472947729330555,0.00186101946221123
+"Moraxellaceae",2,"glucose_ribose","SS","additional","no interaction",0.000472947729330555,0.00186101946221123
+"Moraxellaceae",1,"glucose_ribose","SS","focal","no interaction",-0.000472947729330555,0.00186101946221123
+"Moraxellaceae",2,"glucose_ribose","SS","additional","no interaction",0.000472947729330555,0.00186101946221123
+"Moraxellaceae",2,"glucose_ribose","SS","additional","no interaction",0.000472947729330555,0.00186101946221123
+"Moraxellaceae",1,"succinate_fumarate","AA","additional","no interaction",0.1261875733735,0.229008218447623
+"Moraxellaceae",1,"succinate_fumarate","AA","additional","no interaction",0.1261875733735,0.229008218447623
+"Moraxellaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.1261875733735,0.229008218447623
+"Moraxellaceae",1,"succinate_fumarate","AA","additional","no interaction",0.1261875733735,0.229008218447623
+"Moraxellaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.1261875733735,0.229008218447623
+"Moraxellaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.1261875733735,0.229008218447623
+"Moraxellaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.1261875733735,0.229008218447623
+"Moraxellaceae",1,"succinate_fumarate","AA","additional","no interaction",0.1261875733735,0.229008218447623
+"Moraxellaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0214027751402631,0.145397924961778
+"Moraxellaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0214027751402631,0.145397924961778
+"Moraxellaceae",2,"succinate_glutamine","AA","additional","no interaction",0.0214027751402631,0.145397924961778
+"Moraxellaceae",2,"succinate_glutamine","AA","additional","no interaction",0.0214027751402631,0.145397924961778
+"Moraxellaceae",2,"succinate_glutamine","AA","additional","no interaction",0.0214027751402631,0.145397924961778
+"Moraxellaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0214027751402631,0.145397924961778
+"Moraxellaceae",2,"succinate_glutamine","AA","additional","no interaction",0.0214027751402631,0.145397924961778
+"Moraxellaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0214027751402631,0.145397924961778
+"Moraxellaceae",2,"succinate_glycine","AA","focal","no interaction",-0.249114067201123,0.209005149407338
+"Moraxellaceae",1,"succinate_glycine","AA","focal","no interaction",-0.249114067201123,0.209005149407338
+"Moraxellaceae",1,"succinate_glycine","AA","focal","no interaction",-0.249114067201123,0.209005149407338
+"Moraxellaceae",1,"succinate_glycine","AA","focal","no interaction",-0.249114067201123,0.209005149407338
+"Moraxellaceae",2,"succinate_glycine","AA","focal","no interaction",-0.249114067201123,0.209005149407338
+"Moraxellaceae",2,"succinate_glycine","AA","focal","no interaction",-0.249114067201123,0.209005149407338
+"Pseudomonadaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.00267394478861241,0.00776757527539808
+"Pseudomonadaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",1,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",2,"glucose_fructose","SS","focal","no interaction",-0.0369111923637046,0.113029001563125
+"Pseudomonadaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",2,"glucose_glycerol","SS","additional","no interaction",0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.00452731105163526,0.0118798613554266
+"Pseudomonadaceae",1,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",1,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",1,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",2,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",2,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",1,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",2,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",2,"glucose_ribose","SS","additional","no interaction",0.0137598147917832,0.0771674479379361
+"Pseudomonadaceae",1,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",1,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",1,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",1,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",2,"succinate_fumarate","AA","focal","no interaction",-0.0149818293865677,0.18577463917039
+"Pseudomonadaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",1,"succinate_glutamine","AA","additional","no interaction",0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",1,"succinate_glutamine","AA","additional","no interaction",0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",1,"succinate_glutamine","AA","additional","no interaction",0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",1,"succinate_glutamine","AA","additional","no interaction",0.00746911521102238,0.136413860844464
+"Pseudomonadaceae",1,"succinate_glycine","AA","focal","no interaction",-0.139345255128539,0.155923936450389
+"Pseudomonadaceae",2,"succinate_glycine","AA","focal","no interaction",-0.139345255128539,0.155923936450389
+"Pseudomonadaceae",1,"succinate_glycine","AA","focal","no interaction",-0.139345255128539,0.155923936450389
+"Pseudomonadaceae",1,"succinate_glycine","AA","focal","no interaction",-0.139345255128539,0.155923936450389
+"Pseudomonadaceae",2,"succinate_glycine","AA","focal","no interaction",-0.139345255128539,0.155923936450389
+"Pseudomonadaceae",2,"succinate_glycine","AA","focal","no interaction",-0.139345255128539,0.155923936450389
+"Rhizobiaceae",2,"glucose_glycerol","SS","additional","no interaction",0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",2,"glucose_glycerol","SS","additional","no interaction",0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",2,"glucose_glycerol","SS","additional","no interaction",0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",1,"glucose_glycerol","SS","focal","no interaction",-0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",2,"glucose_glycerol","SS","additional","no interaction",0.000292782221990338,0.000456126770508192
+"Rhizobiaceae",1,"glucose_ribose","SS","focal","no interaction",-0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",2,"glucose_ribose","SS","additional","no interaction",0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",1,"glucose_ribose","SS","focal","no interaction",-0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",1,"glucose_ribose","SS","focal","no interaction",-0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",2,"glucose_ribose","SS","additional","no interaction",0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",2,"glucose_ribose","SS","additional","no interaction",0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",2,"glucose_ribose","SS","additional","no interaction",0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",1,"glucose_ribose","SS","focal","no interaction",-0.00396619407209108,0.00695904102155178
+"Rhizobiaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",2,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",1,"succinate_glutamine","AA","focal","no interaction",-0.0415960110468668,0.171610938013802
+"Rhizobiaceae",1,"succinate_glycine","AA","additional","no interaction",0.0712935697446621,0.107134083920666
+"Rhizobiaceae",2,"succinate_glycine","AA","additional","no interaction",0.0712935697446621,0.107134083920666
+"Rhizobiaceae",1,"succinate_glycine","AA","additional","no interaction",0.0712935697446621,0.107134083920666
+"Rhizobiaceae",2,"succinate_glycine","AA","additional","no interaction",0.0712935697446621,0.107134083920666
+"Rhizobiaceae",1,"succinate_glycine","AA","additional","no interaction",0.0712935697446621,0.107134083920666
+"Rhizobiaceae",2,"succinate_glycine","AA","additional","no interaction",0.0712935697446621,0.107134083920666
+"Enterobacteriaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",2,"glucose_cellobiose","SS","focal","no interaction",-0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.0110524549952376,0.011317648708109
+"Enterobacteriaceae",1,"glucose_cellobiose","SS","additional","no interaction",0.0110524549952376,0.011317648708109
+"Moraxellaceae",1,"glucose_cellobiose","SS","focal","no interaction",-0.00107608849018517,0.000956628441412295
+"Moraxellaceae",2,"glucose_cellobiose","SS","additional","no interaction",0.00107608849018517,0.000956628441412295
+"Moraxellaceae",1,"glucose_cellobiose","SS","focal","no interaction",-0.00107608849018517,0.000956628441412295
+"Moraxellaceae",1,"glucose_cellobiose","SS","focal","no interaction",-0.00107608849018517,0.000956628441412295
+"Moraxellaceae",2,"glucose_cellobiose","SS","additional","no interaction",0.00107608849018517,0.000956628441412295
+"Moraxellaceae",2,"glucose_cellobiose","SS","additional","no interaction",0.00107608849018517,0.000956628441412295
+"Moraxellaceae",1,"glucose_cellobiose","SS","focal","no interaction",-0.00107608849018517,0.000956628441412295
+"Moraxellaceae",2,"glucose_cellobiose","SS","additional","no interaction",0.00107608849018517,0.000956628441412295
+"Moraxellaceae",1,"glucose_fructose","SS","focal","no interaction",-0.00103492115194163,0.00110803921967682
+"Moraxellaceae",1,"glucose_fructose","SS","focal","no interaction",-0.00103492115194163,0.00110803921967682
+"Moraxellaceae",2,"glucose_fructose","SS","additional","no interaction",0.00103492115194163,0.00110803921967682
+"Moraxellaceae",1,"glucose_fructose","SS","focal","no interaction",-0.00103492115194163,0.00110803921967682
+"Moraxellaceae",2,"glucose_fructose","SS","additional","no interaction",0.00103492115194163,0.00110803921967682
+"Moraxellaceae",2,"glucose_fructose","SS","additional","no interaction",0.00103492115194163,0.00110803921967682
+"Moraxellaceae",1,"glucose_fructose","SS","focal","no interaction",-0.00103492115194163,0.00110803921967682
+"Moraxellaceae",2,"glucose_fructose","SS","additional","no interaction",0.00103492115194163,0.00110803921967682
+"Enterobacteriaceae",2,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",1,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",1,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",2,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",2,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",1,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",2,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",1,"succinate_fumarate","AA","focal","antagonism",-0.0636733715649074,0.0264420250338166
+"Enterobacteriaceae",2,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",2,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",1,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",2,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",2,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",1,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",1,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Enterobacteriaceae",1,"succinate_glutamine","AA","focal","synergy",-0.0680272604380658,0.0305514105317793
+"Moraxellaceae",2,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",2,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",1,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",1,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",2,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",1,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",1,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Moraxellaceae",2,"succinate_benzoate","AA","additional","antagonism",0.220089141184987,0.156495730135852
+"Pseudomonadaceae",1,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",2,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",1,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",2,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",1,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",2,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",2,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Pseudomonadaceae",1,"succinate_benzoate","AA","additional","+ dominance",0.324596000937067,0.150244750648085
+"Rhizobiaceae",2,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",2,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",2,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",1,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",1,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",1,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",2,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",1,"glucose_cellobiose","SS","focal","antagonism",-0.000509639066009838,0.00038548213182213
+"Rhizobiaceae",1,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",2,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",2,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",1,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",1,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",1,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",2,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",2,"glucose_fructose","SS","focal","antagonism",-0.000558543064043613,0.000516775903066003
+"Rhizobiaceae",1,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",2,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",2,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",1,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",1,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",2,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",1,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",2,"succinate_benzoate","AA","additional","- dominance",0.17930171336522,0.0808587601251314
+"Rhizobiaceae",1,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",1,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",2,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",2,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",1,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",1,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",2,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
+"Rhizobiaceae",2,"succinate_fumarate","AA","additional","- dominance",0.0926028115598635,0.0473386798928798
